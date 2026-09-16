@@ -41,7 +41,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=💻%20About%20Me&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=About%20Me&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="About Me" />
 </div>
 
 <div align="center">
@@ -58,20 +58,20 @@ I'm a **Backend Developer** focused on building high-performance, fault-tolerant
 
 My engineering foundation revolves around mission-critical backend principles: **concurrency models, API architecture, relational database indexing, distributed caching, asynchronous event streaming, and cloud-native containerization**.
 
-* 🦫 **Go Engineering:** Goroutines & Channels, Worker Pools, Context propagation, low-latency HTTP services.
-* ☕ **Enterprise Java & Spring Boot:** Hexagonal / Clean Architecture, Spring Security, RESTful microservices, Hibernate tuning.
-* 🗄️ **Database & Performance:** PostgreSQL schema optimization, ACID transactions, B-Tree indexes, Redis cache-aside patterns.
-* 📨 **Event-Driven Architecture:** Kafka / RabbitMQ message brokers, pub-sub workflows, decoupling distributed workloads.
-* 🧪 **Testing & Quality Assurance:** Unit testing (JUnit 5, table-driven Go tests), Docker-based integration testing, JaCoCo code coverage metrics.
-* 📊 **Reliability & Observability:** Structured logging, Prometheus metrics, Grafana dashboards, Docker containerization.
+* <img src="https://img.shields.io/badge/Go-Engineering-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Engineering" /> Goroutines & Channels, Worker Pools, Context propagation, low-latency HTTP services.
+* <img src="https://img.shields.io/badge/Enterprise-Java%20%26%20Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Enterprise Java and Spring Boot" /> Hexagonal / Clean Architecture, Spring Security, RESTful microservices, Hibernate tuning.
+* <img src="https://img.shields.io/badge/Database-Performance-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Database and Performance" /> PostgreSQL schema optimization, ACID transactions, B-Tree indexes, Redis cache-aside patterns.
+* <img src="https://img.shields.io/badge/Event--Driven-Architecture-FF6600?style=flat-square&logo=apachekafka&logoColor=white" alt="Event-Driven Architecture" /> Kafka / RabbitMQ message brokers, pub-sub workflows, decoupling distributed workloads.
+* <img src="https://img.shields.io/badge/Testing-Code%20Quality-25A162?style=flat-square&logo=junit5&logoColor=white" alt="Testing and Code Quality" /> Unit testing (JUnit 5, table-driven Go tests), Docker-based integration testing, JaCoCo code coverage metrics.
+* <img src="https://img.shields.io/badge/Reliability-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Reliability and Observability" /> Structured logging, Prometheus metrics, Grafana dashboards, Docker containerization.
 
 <br/>
 
-> 💡 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin (Uncle Bob)
+> *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin (Uncle Bob)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=61AFEF&center=true&vCenter=true&width=750&height=35&lines=Technologies+I+use+to+build+rock-solid+systems;Go+%2B+Gin+%7C+Java+%2B+Spring+Boot;PostgreSQL+%7C+Redis+%7C+Kafka+%7C+Docker;Automated+Unit+Testing+%7C+Integration+Testing+%7C+JaCoCo" alt="Tech Stack Dynamic" />
@@ -79,7 +79,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <br/>
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="55" height="55" alt="Go"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/></a>
@@ -89,7 +89,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript"/></a>
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 <p align="left">
   <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" width="55" height="55" alt="Gin"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot"/></a>
@@ -97,27 +97,27 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="NestJS"/></a>
 </p>
 
-### 🗄️ Databases & Caching
+### Databases & Caching
 <p align="left">
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/></a>
   <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis"/></a>
 </p>
 
-### 📨 Messaging & Asynchronous Processing
+### Messaging & Asynchronous Processing
 <p align="left">
   <a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Apache Kafka"/></a>
   <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq" width="55" height="55" alt="RabbitMQ"/></a>
 </p>
 
-### 🧪 Testing & Code Quality
+### Testing & Code Quality
 <p align="left">
   <a href="https://junit.org/junit5/"><img src="./assets/junit5.svg" width="55" height="55" alt="JUnit 5"/></a>
   <a href="https://testcontainers.com/"><img src="./assets/testcontainers.svg" width="55" height="55" alt="Testcontainers / Docker Integration Testing"/></a>
   <a href="https://www.jacoco.org/jacoco/"><img src="./assets/jacoco.svg" width="55" height="55" alt="JaCoCo Code Coverage"/></a>
 </p>
 
-### 🐳 DevOps, Observability & Tooling
+### DevOps, Observability & Tooling
 <p align="left">
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/></a>
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus"/></a>
@@ -132,7 +132,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## ⚙️ Development Workflow
+## Development Workflow
 
 <div align="center">
 
@@ -177,32 +177,30 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## 🎯 Core Competencies & Specializations
+## Professional Direction: Software Architect
+
+I am building toward a career as a **Software Architect** by strengthening my
+experience in backend engineering, distributed systems, and system design. My
+focus is on translating business requirements into practical technical solutions
+that balance **scalability, reliability, security, maintainability, and cost**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=40&section=header&text=🎯%20Core%20Competencies%20%26%20Specializations&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Core Competencies" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=750&height=30&lines=Backend+Architecture+%E2%80%A2+High-Concurrency+APIs;Database+Optimization+%E2%80%A2+Cache-Aside+Strategies;Clean+Architecture+%E2%80%A2+Domain-Driven+Design" alt="Competencies Typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=900&color=00C9FF&center=true&vCenter=true&width=800&height=35&lines=From+business+requirements+to+technical+solutions;Designing+reliable+and+scalable+software+systems;Learning+through+architecture+decisions+and+real-world+projects" alt="Software Architect Direction" />
 
 </div>
 
-<br/>
+<div align="center">
 
-* 🏗️ **Backend Architecture:** Designing RESTful microservices & modular systems using **Go (Gin)** and **Java (Spring Boot)**, following Clean Architecture and SOLID principles.
-* ⚡ **Concurrency & Performance:** Practical implementation of Goroutines, Worker Pools, channel-based pipelines, and non-blocking I/O patterns.
-* 🗄️ **Database Engineering & Caching:** Schema design, B-tree indexing, query optimization in **PostgreSQL**, alongside multi-level caching strategies with **Redis**.
-* 📨 **Event-Driven Messaging:** Asynchronous task processing and decoupling distributed systems using **Kafka** and **RabbitMQ**.
-* 🧪 **Testing & Code Quality:** Test-Driven mindset with comprehensive Unit Tests, Integration Tests, and automated regression testing.
-* 🐳 **Containerization & Deployment:** Multi-stage **Docker** builds, container orchestration with Compose, structured logging, and observability.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=900&color=98C379&center=true&vCenter=true&width=800&height=35&lines=Backend+Engineering+%E2%86%92+System+Design;System+Design+%E2%86%92+Software+Architecture;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Software Architecture Journey" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
+</div>
 
-## 📊 GitHub Stats & Metrics
+## GitHub Stats & Metrics
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=40&section=header&text=⚡%20Live%20Stats%20Dashboard&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Stats Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=40&section=header&text=Live%20Stats%20Dashboard&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Stats Header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=600&height=35&lines=Consistent+daily+coding+%26+problem+solving;Continuous+integration+%26+clean+commits;Building+in+public+%E2%80%A2+shipping+every+day" alt="Stats Dynamic" />
 
@@ -243,11 +241,11 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7A00FF,100:FF007A&height=40&section=header&text=📈%20Contribution%20Heatmap&fontSize=22&fontColor=7A00FF&animation=fadeIn" alt="Activity Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7A00FF,100:FF007A&height=40&section=header&text=Contribution%20Heatmap&fontSize=22&fontColor=7A00FF&animation=fadeIn" alt="Activity Header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=FF007A&center=true&vCenter=true&width=650&height=30&lines=Every+commit+powers+resilient+microservices;Continuous+refactoring+%E2%80%A2+Clean+architecture;Shipping+production-ready+code+day+in+and+day+out" alt="Activity Typing" />
 
@@ -263,11 +261,11 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=🐍%20Snake%20Eating%20My%20Contributions&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Snake Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=Contribution%20Snake&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Snake Header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=7A00FF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code;Watch+it+devour+my+contribution+graph+byte+by+byte..." alt="Snake Subtitle" />
 
@@ -293,7 +291,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -331,7 +329,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <div align="center">
 
-### ⚡ Let's Connect & Build Scalable Systems
+### Let's Connect & Build Scalable Systems
 
 <p align="center">
   Always open to backend engineering discussions, architectural brainstorming, or open-source collaborations.
@@ -352,13 +350,13 @@ My engineering foundation revolves around mission-critical backend principles: *
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&width=850&height=40&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%94+Linus+Torvalds;%E2%80%9CBad+programmers+worry+about+the+code.+Good+programmers+worry+about+data+structures.%E2%80%9D+%E2%80%94+Linus+Torvalds" alt="Linus Torvalds Quote" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&width=1100&height=45&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%94+Linus+Torvalds;%E2%80%9CBad+programmers+worry+about+the+code.+Good+programmers+worry+about+data+structures.%E2%80%9D+%E2%80%94+Linus+Torvalds" alt="Linus Torvalds Quote" />
 </div>
 
 <p align="center">
-  <sub>Designed & Developed with ❤️ by <b>Huỳnh Minh Phương (PikayHuynh)</b></sub>
+  <sub>Designed & Developed by <b>Huỳnh Minh Phương (PikayHuynh)</b></sub>
   <br/>
-  <sub>⚡ <i>"Write clean, build scalable, deliver reliable."</i> ⚡</sub>
+  <sub><i>"Write clean, build scalable, deliver reliable."</i></sub>
   <br/><br/>
   <a href="#top"><b>▲ Back to Top</b></a>
 </p>
