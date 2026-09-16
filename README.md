@@ -137,23 +137,43 @@ My engineering foundation revolves around mission-critical backend principles: *
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&text=Spec%20%E2%86%92%20Code%20%E2%86%92%20Storage%20%E2%86%92%20Test%20%E2%86%92%20Review%20%E2%86%92%20Docker%20%E2%86%92%20Monitor&fontSize=18&fontColor=FFFFFF&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&text=Spec%20%E2%86%92%20Code%20%E2%86%92%20Storage%20%E2%86%92%20Test%20%E2%86%92%20Review%20%E2%86%92%20Docker%20%E2%86%92%20CI%2FCD%20%E2%86%92%20Monitor&fontSize=18&fontColor=FFFFFF&animation=twinkling"
   width="95%"
   alt="Development workflow"
 />
 
 <br/>
 
-<img src="https://img.shields.io/badge/1.%20Spec-OpenAPI%20%7C%20Swagger-61DAFB?style=for-the-badge" alt="Spec"/>
-<img src="https://img.shields.io/badge/2.%20Code-Go%20%7C%20Java-00ADD8?style=for-the-badge" alt="Code"/>
-<img src="https://img.shields.io/badge/3.%20Storage-PostgreSQL%20%7C%20Redis-4169E1?style=for-the-badge" alt="Storage"/>
-<img src="https://img.shields.io/badge/4.%20Test-Unit%20%7C%20Postman-DC382D?style=for-the-badge" alt="Test"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/5.%20Review-Git%20%7C%20Pull%20Request-7A00FF?style=for-the-badge" alt="Review"/>
-<img src="https://img.shields.io/badge/6.%20Runtime-Docker%20%7C%20Compose-2496ED?style=for-the-badge" alt="Docker"/>
-<img src="https://img.shields.io/badge/7.%20Monitor-Prometheus%20%7C%20Grafana-F46800?style=for-the-badge" alt="Grafana"/>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/1.%20Spec-OpenAPI-61DAFB?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="Spec"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/2.%20Code-Go%20%7C%20Java-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Code"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/3.%20Storage-Postgres%20%7C%20Redis-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Storage"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/4.%20Test-Unit%20%7C%20Postman-DC382D?style=for-the-badge&logo=postman&logoColor=white" alt="Test"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/5.%20Review-Git%20%7C%20PR-7A00FF?style=for-the-badge&logo=git&logoColor=white" alt="Review"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/6.%20Runtime-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/7.%20CI%2FCD-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/8.%20Monitor-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
