@@ -38,7 +38,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=💻%20About%20Me&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="About Me" />
@@ -69,7 +69,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 > 💡 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin (Uncle Bob)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## 🛠️ Languages & Technologies
 
@@ -130,7 +130,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://www.usebruno.com/"><img src="./assets/bruno.svg" width="55" height="55" alt="Bruno"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## ⚙️ Development Workflow
 
@@ -155,9 +155,17 @@ My engineering foundation revolves around mission-critical backend principles: *
 <img src="https://img.shields.io/badge/6.%20Runtime-Docker%20%7C%20Compose-2496ED?style=for-the-badge" alt="Docker"/>
 <img src="https://img.shields.io/badge/7.%20Monitor-Prometheus%20%7C%20Grafana-F46800?style=for-the-badge" alt="Grafana"/>
 
+<br/><br/>
+
+<img src="./assets/backend-animation.svg" width="95%" alt="High-Concurrency Backend Architecture Animation" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=00C9FF&center=true&vCenter=true&width=750&height=32&lines=1.+Design+Clean+Contracts+%26+Protocols;2.+Implement+Go+%2F+Java+Core+Logic;3.+Optimize+DB+Indexes+%26+Redis+Caching;4.+Automate+Unit+%26+Integration+Testing;5.+Containerize+with+Docker+%26+Monitor" alt="Workflow Pipeline Typing" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## 📚 Currently Learning
 
@@ -177,7 +185,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## 📊 GitHub Stats & Metrics
 
@@ -222,13 +230,15 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7A00FF,100:FF007A&height=40&section=header&text=📈%20Contribution%20Heatmap&fontSize=22&fontColor=7A00FF&animation=fadeIn" alt="Activity Header" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=FF007A&center=true&vCenter=true&width=650&height=30&lines=Every+commit+powers+resilient+microservices;Continuous+refactoring+%E2%80%A2+Clean+architecture;Shipping+production-ready+code+day+in+and+day+out" alt="Activity Typing" />
 
 <a href="https://github.com/PikayHuynh">
   <img
@@ -240,7 +250,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## 🐍 Contribution Snake
 
@@ -248,7 +258,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=🐍%20Snake%20Eating%20My%20Contributions&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Snake Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=7A00FF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code;Watch+it+devour+my+contribution+graph+%F0%9F%90%8D" alt="Snake Subtitle" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=7A00FF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code;Watch+it+devour+my+contribution+graph+byte+by+byte..." alt="Snake Subtitle" />
 
 <br/>
 
@@ -270,7 +280,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 ## 🌐 Connect With Me
 
@@ -306,7 +316,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 <div align="center">
 
@@ -329,6 +339,12 @@ My engineering foundation revolves around mission-critical backend principles: *
     <img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
+
+<a href="https://github.com/PikayHuynh">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
+</a>
+
+<br/><br/>
 
 <p align="center">
   <sub>Designed & Developed with ❤️ by <b>Huỳnh Minh Phương (PikayHuynh)</b></sub>
