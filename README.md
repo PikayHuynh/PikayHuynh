@@ -59,7 +59,7 @@ I'm a **Backend Developer** focused on building high-performance, fault-tolerant
 My engineering foundation revolves around mission-critical backend principles: **concurrency models, API architecture, relational database indexing, distributed caching, asynchronous event streaming, and cloud-native containerization**.
 
 * **Go Engineering:** Goroutines & Channels, Worker Pools, Context propagation, low-latency HTTP services.
-* **Enterprise Java & Spring Boot:** Hexagonal / Clean Architecture, Spring Security, RESTful microservices, Hibernate tuning.
+* **Enterprise Java & Spring Boot:** Hexagonal / Clean Architecture, Spring Security, RESTful microservices, JPA performance tuning.
 * **Database & Performance:** PostgreSQL schema optimization, ACID transactions, B-Tree indexes, Redis cache-aside patterns.
 * **Event-Driven Architecture:** Kafka / RabbitMQ message brokers, pub-sub workflows, decoupling distributed workloads.
 * **Testing & Quality Assurance:** Unit testing (JUnit 5, table-driven Go tests), Docker-based integration testing, JaCoCo code coverage metrics.
@@ -95,10 +95,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 <p align="left">
   <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" width="50" height="50" alt="Gin"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot"/></a>
-  <a href="https://hibernate.org/"><img src="https://cdn.simpleicons.org/hibernate/59666C" width="50" height="50" alt="Hibernate"/></a>
-  <a href="https://maven.apache.org/"><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50" height="50" alt="Maven"/></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/></a>
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS"/></a>
 </p>
 
 ### Frontend & Data Formats
@@ -106,9 +103,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/></a>
-  <a href="https://sass-lang.com/guide/"><img src="https://skillicons.dev/icons?i=scss" width="50" height="50" alt="SCSS"/></a>
   <a href="https://yaml.org/"><img src="https://cdn.simpleicons.org/yaml/CB171E" width="50" height="50" alt="YAML"/></a>
-  <a href="https://www.json.org/"><img src="https://cdn.simpleicons.org/json/111827" width="50" height="50" alt="JSON"/></a>
 </p>
 
 ### Databases & Caching
@@ -117,13 +112,6 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/></a>
   <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis"/></a>
   <a href="https://min.io/"><img src="https://cdn.simpleicons.org/minio/C72E49" width="50" height="50" alt="MinIO"/></a>
-</p>
-
-### Security & Database Tooling
-<p align="left">
-  <a href="https://jwt.io/"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="50" height="50" alt="JWT"/></a>
-  <a href="https://spring.io/projects/spring-security"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="50" height="50" alt="Spring Security"/></a>
-  <a href="https://github.com/flyway/flyway"><img src="https://cdn.simpleicons.org/flyway/CC0200" width="50" height="50" alt="Flyway Database Migration"/></a>
 </p>
 
 ### Messaging & Asynchronous Processing
@@ -137,7 +125,6 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://junit.org/junit5/"><img src="./assets/junit5.svg" width="50" height="50" alt="JUnit 5"/></a>
   <a href="https://testcontainers.com/"><img src="./assets/testcontainers.svg" width="50" height="50" alt="Testcontainers / Docker Integration Testing"/></a>
   <a href="https://www.jacoco.org/jacoco/"><img src="./assets/jacoco.svg" width="50" height="50" alt="JaCoCo Code Coverage"/></a>
-  <a href="https://jmeter.apache.org/"><img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="50" height="50" alt="Apache JMeter"/></a>
 </p>
 
 ### DevOps, Observability & Tooling
@@ -147,8 +134,6 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" alt="Grafana"/></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ IDEA"/></a>
   <a href="https://www.jetbrains.com/datagrip/"><img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" width="50" height="50" alt="DataGrip"/></a>
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="50" height="50" alt="WebStorm"/></a>
-  <a href="https://www.jetbrains.com/go/"><img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="50" height="50" alt="GoLand"/></a>
   <a href="https://www.eclipse.org/ide/"><img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" alt="Eclipse"/></a>
   <a href="https://dbeaver.io/"><img src="https://cdn.simpleicons.org/dbeaver/382923" width="50" height="50" alt="DBeaver"/></a>
   <a href="https://www.drawio.com/"><img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="50" height="50" alt="draw.io"/></a>
