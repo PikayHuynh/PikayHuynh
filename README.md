@@ -248,7 +248,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=🐍%20Snake%20Eating%20My%20Contributions&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Snake Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=7A00FF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code;Watch+it+devour+my+contribution+graph+🐍" alt="Snake Subtitle" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=7A00FF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code;Watch+it+devour+my+contribution+graph+%F0%9F%90%8D" alt="Snake Subtitle" />
 
 <br/>
 
