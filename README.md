@@ -41,7 +41,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=👨💻%20About%20Me&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=💻%20About%20Me&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="About Me" />
 </div>
 
 <div align="center">
