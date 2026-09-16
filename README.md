@@ -58,12 +58,12 @@ I'm a **Backend Developer** focused on building high-performance, fault-tolerant
 
 My engineering foundation revolves around mission-critical backend principles: **concurrency models, API architecture, relational database indexing, distributed caching, asynchronous event streaming, and cloud-native containerization**.
 
-* <img src="https://img.shields.io/badge/Go-Engineering-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go Engineering" /> Goroutines & Channels, Worker Pools, Context propagation, low-latency HTTP services.
-* <img src="https://img.shields.io/badge/Enterprise-Java%20%26%20Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Enterprise Java and Spring Boot" /> Hexagonal / Clean Architecture, Spring Security, RESTful microservices, Hibernate tuning.
-* <img src="https://img.shields.io/badge/Database-Performance-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Database and Performance" /> PostgreSQL schema optimization, ACID transactions, B-Tree indexes, Redis cache-aside patterns.
-* <img src="https://img.shields.io/badge/Event--Driven-Architecture-FF6600?style=flat-square&logo=apachekafka&logoColor=white" alt="Event-Driven Architecture" /> Kafka / RabbitMQ message brokers, pub-sub workflows, decoupling distributed workloads.
-* <img src="https://img.shields.io/badge/Testing-Code%20Quality-25A162?style=flat-square&logo=junit5&logoColor=white" alt="Testing and Code Quality" /> Unit testing (JUnit 5, table-driven Go tests), Docker-based integration testing, JaCoCo code coverage metrics.
-* <img src="https://img.shields.io/badge/Reliability-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Reliability and Observability" /> Structured logging, Prometheus metrics, Grafana dashboards, Docker containerization.
+* **Go Engineering:** Goroutines & Channels, Worker Pools, Context propagation, low-latency HTTP services.
+* **Enterprise Java & Spring Boot:** Hexagonal / Clean Architecture, Spring Security, RESTful microservices, Hibernate tuning.
+* **Database & Performance:** PostgreSQL schema optimization, ACID transactions, B-Tree indexes, Redis cache-aside patterns.
+* **Event-Driven Architecture:** Kafka / RabbitMQ message brokers, pub-sub workflows, decoupling distributed workloads.
+* **Testing & Quality Assurance:** Unit testing (JUnit 5, table-driven Go tests), Docker-based integration testing, JaCoCo code coverage metrics.
+* **Reliability & Observability:** Structured logging, Prometheus metrics, Grafana dashboards, Docker containerization.
 
 <br/>
 
@@ -83,27 +83,47 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 ### Programming Languages
 <p align="left">
-  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="55" height="55" alt="Go"/></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/></a>
-  <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="55" height="55" alt="TypeScript"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript"/></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Go"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/></a>
+  <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/></a>
 </p>
 
 ### Backend & Frameworks
 <p align="left">
-  <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" width="55" height="55" alt="Gin"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot"/></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/></a>
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="NestJS"/></a>
+  <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" width="50" height="50" alt="Gin"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot"/></a>
+  <a href="https://hibernate.org/"><img src="https://cdn.simpleicons.org/hibernate/59666C" width="50" height="50" alt="Hibernate"/></a>
+  <a href="https://maven.apache.org/"><img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="50" height="50" alt="Maven"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/></a>
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" alt="NestJS"/></a>
+</p>
+
+### Frontend & Data Formats
+<p align="left">
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/></a>
+  <a href="https://sass-lang.com/guide/"><img src="https://skillicons.dev/icons?i=scss" width="50" height="50" alt="SCSS"/></a>
+  <a href="https://yaml.org/"><img src="https://cdn.simpleicons.org/yaml/CB171E" width="50" height="50" alt="YAML"/></a>
+  <a href="https://www.json.org/"><img src="https://cdn.simpleicons.org/json/111827" width="50" height="50" alt="JSON"/></a>
 </p>
 
 ### Databases & Caching
 <p align="left">
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis"/></a>
+  <a href="https://min.io/"><img src="https://cdn.simpleicons.org/minio/C72E49" width="50" height="50" alt="MinIO"/></a>
+</p>
+
+### Security & Database Tooling
+<p align="left">
+  <a href="https://jwt.io/"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="50" height="50" alt="JWT"/></a>
+  <a href="https://spring.io/projects/spring-security"><img src="https://cdn.simpleicons.org/springsecurity/6DB33F" width="50" height="50" alt="Spring Security"/></a>
+  <a href="https://github.com/flyway/flyway"><img src="https://cdn.simpleicons.org/flyway/CC0200" width="50" height="50" alt="Flyway Database Migration"/></a>
 </p>
 
 ### Messaging & Asynchronous Processing
@@ -114,22 +134,31 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 ### Testing & Code Quality
 <p align="left">
-  <a href="https://junit.org/junit5/"><img src="./assets/junit5.svg" width="55" height="55" alt="JUnit 5"/></a>
-  <a href="https://testcontainers.com/"><img src="./assets/testcontainers.svg" width="55" height="55" alt="Testcontainers / Docker Integration Testing"/></a>
-  <a href="https://www.jacoco.org/jacoco/"><img src="./assets/jacoco.svg" width="55" height="55" alt="JaCoCo Code Coverage"/></a>
+  <a href="https://junit.org/junit5/"><img src="./assets/junit5.svg" width="50" height="50" alt="JUnit 5"/></a>
+  <a href="https://testcontainers.com/"><img src="./assets/testcontainers.svg" width="50" height="50" alt="Testcontainers / Docker Integration Testing"/></a>
+  <a href="https://www.jacoco.org/jacoco/"><img src="./assets/jacoco.svg" width="50" height="50" alt="JaCoCo Code Coverage"/></a>
+  <a href="https://jmeter.apache.org/"><img src="https://cdn.simpleicons.org/apachejmeter/D22128" width="50" height="50" alt="Apache JMeter"/></a>
 </p>
 
 ### DevOps, Observability & Tooling
 <p align="left">
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/></a>
-  <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus"/></a>
-  <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/></a>
-  <a href="https://github.com/PikayHuynh"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/></a>
-  <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab"/></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman"/></a>
-  <a href="https://www.usebruno.com/"><img src="./assets/bruno.svg" width="55" height="55" alt="Bruno"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/></a>
+  <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="50" height="50" alt="Prometheus"/></a>
+  <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" alt="Grafana"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ IDEA"/></a>
+  <a href="https://www.jetbrains.com/datagrip/"><img src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" width="50" height="50" alt="DataGrip"/></a>
+  <a href="https://www.jetbrains.com/webstorm/"><img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="50" height="50" alt="WebStorm"/></a>
+  <a href="https://www.jetbrains.com/go/"><img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" width="50" height="50" alt="GoLand"/></a>
+  <a href="https://www.eclipse.org/ide/"><img src="https://skillicons.dev/icons?i=eclipse" width="50" height="50" alt="Eclipse"/></a>
+  <a href="https://dbeaver.io/"><img src="https://cdn.simpleicons.org/dbeaver/382923" width="50" height="50" alt="DBeaver"/></a>
+  <a href="https://www.drawio.com/"><img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="50" height="50" alt="draw.io"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Terminal and Bash"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/></a>
+  <a href="https://github.com/PikayHuynh"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/></a>
+  <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="50" height="50" alt="GitLab"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/></a>
+  <a href="https://www.usebruno.com/"><img src="./assets/bruno.svg" width="50" height="50" alt="Bruno"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
