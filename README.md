@@ -181,23 +181,23 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## 📚 Currently Learning
+## ⚡ Beyond The Code
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=800&color=E5C07B&center=true&vCenter=true&width=650&height=35&lines=Leveling+up+in+Distributed+Systems;Deep+diving+into+PostgreSQL+Internals;Mastering+Go+Concurrency+Primitives;Benchmarking+Kafka+High-Throughput+Pipelines" alt="Currently Learning Dynamic" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=⚡%20Beyond%20The%20Code&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Beyond The Code" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=650&height=30&lines=Turning+Vietnamese+coffee+into+clean+APIs;Can+Tho,+Vietnam+%E2%80%A2+Always+building+%26+learning;Simplicity+and+reliability+over+cleverness" alt="Personal Bio Typing" />
+
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/GO%20CONCURRENCY-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Concurrency"/>
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-7A00FF?style=for-the-badge" alt="System Design"/>
-<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-FF0080?style=for-the-badge" alt="Distributed Systems"/>
-<img src="https://img.shields.io/badge/POSTGRESQL%20INTERNALS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Internals"/>
-<img src="https://img.shields.io/badge/DATABASE%20PERFORMANCE-0072FF?style=for-the-badge" alt="Database Performance"/>
-<img src="https://img.shields.io/badge/NETWORKING-00C9FF?style=for-the-badge" alt="Networking"/>
-<img src="https://img.shields.io/badge/OBSERVABILITY-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Observability"/>
-
-</div>
+* 📍 **Base:** Coding & building from **Can Tho, Vietnam** 🇻🇳 (UTC+7).
+* ☕ **Daily Fuel:** Vietnamese iced milk coffee (`cà phê sữa đá`) + terminal dark mode.
+* 🦫 **Engineering Mindset:** Simplicity over complexity, reliability over cleverness. *Code is read far more often than it is written.*
+* 🎯 **Daily Focus:** Writing code today that future me (and fellow teammates) will enjoy maintaining.
+* 💬 **Ask Me About:** Go concurrency, RESTful API structure, PostgreSQL optimization, or tech discussions over coffee.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
