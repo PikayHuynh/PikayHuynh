@@ -38,9 +38,15 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
-## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=👨💻%20About%20Me&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="About Me" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding Animation" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=98C379&center=true&vCenter=true&width=750&height=40&lines=%24+pikayhuynh+--status+%22Designing+scalable+microservices%22;%24+go+run+main.go+--profile%3Dproduction+--concurrency%3D1000;%24+docker+compose+up+-d+--build;%24+git+commit+-m+%22feat%3A+optimize+concurrency+workers%22" alt="Live Terminal" />
