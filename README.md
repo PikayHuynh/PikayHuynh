@@ -240,14 +240,14 @@ My engineering foundation revolves around mission-critical backend principles: *
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/PikayHuynh/PikayHuynh/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/PikayHuynh/PikayHuynh/output/github-contribution-grid-snake.svg"
   />
   <img
-    src="./assets/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/PikayHuynh/PikayHuynh/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake animation"
     width="100%"
   />
