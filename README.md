@@ -71,7 +71,9 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## Languages & Technologies
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=Languages%20%26%20Technologies&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="Languages and Technologies" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=61AFEF&center=true&vCenter=true&width=750&height=35&lines=Technologies+I+use+to+build+rock-solid+systems;Go+%2B+Gin+%7C+Java+%2B+Spring+Boot;PostgreSQL+%7C+Redis+%7C+Kafka+%7C+Docker;Automated+Unit+Testing+%7C+Integration+Testing+%7C+JaCoCo" alt="Tech Stack Dynamic" />
@@ -132,7 +134,9 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## Development Workflow
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=Development%20Workflow&fontSize=28&fontColor=61AFEF&animation=twinkling" alt="Development Workflow" />
+</div>
 
 <div align="center">
 
@@ -177,7 +181,9 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## Professional Direction: Software Architect
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=Professional%20Direction%3A%20Software%20Architect&fontSize=26&fontColor=61AFEF&animation=fadeIn" alt="Professional Direction: Software Architect" />
+</div>
 
 I am building toward a career as a **Software Architect** by strengthening my
 experience in backend engineering, distributed systems, and system design. My
@@ -196,7 +202,9 @@ that balance **scalability, reliability, security, maintainability, and cost**.
 
 </div>
 
-## GitHub Stats & Metrics
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=GitHub%20Stats%20%26%20Metrics&fontSize=28&fontColor=00C9FF&animation=twinkling" alt="GitHub Stats and Metrics" />
+</div>
 
 <div align="center">
 
@@ -241,7 +249,9 @@ that balance **scalability, reliability, security, maintainability, and cost**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## Contribution Activity
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7A00FF,100:FF007A&height=45&section=header&text=Contribution%20Activity&fontSize=28&fontColor=7A00FF&animation=fadeIn" alt="Contribution Activity" />
+</div>
 
 <div align="center">
 
@@ -261,7 +271,9 @@ that balance **scalability, reliability, security, maintainability, and cost**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## Contribution Snake
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=45&section=header&text=Contribution%20Snake&fontSize=28&fontColor=00C9FF&animation=twinkling" alt="Contribution Snake" />
+</div>
 
 <div align="center">
 
@@ -291,7 +303,9 @@ that balance **scalability, reliability, security, maintainability, and cost**.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## Connect With Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=Connect%20With%20Me&fontSize=28&fontColor=00C9FF&animation=fadeIn" alt="Connect With Me" />
+</div>
 
 <div align="center">
 
