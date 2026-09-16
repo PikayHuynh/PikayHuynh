@@ -137,7 +137,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&text=Spec%20%E2%86%92%20Code%20%E2%86%92%20Storage%20%E2%86%92%20Test%20%E2%86%92%20Review%20%E2%86%92%20Docker%20%E2%86%92%20CI%2FCD%20%E2%86%92%20Monitor&fontSize=18&fontColor=FFFFFF&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&text=Spec%20%E2%86%92%20Code%20%E2%86%92%20Storage%20%E2%86%92%20Test%20%E2%86%92%20Review%20%E2%86%92%20Deploy&fontSize=18&fontColor=FFFFFF&animation=twinkling"
   width="95%"
   alt="Development workflow"
 />
@@ -146,42 +146,36 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center">
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/1.%20Spec-OpenAPI-61DAFB?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="Spec"/>
     </td>
-    <td width="25%" align="center">
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/2.%20Code-Go%20%7C%20Java-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Code"/>
     </td>
-    <td width="25%" align="center">
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/3.%20Storage-Postgres%20%7C%20Redis-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Storage"/>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/4.%20Test-Unit%20%7C%20Postman-DC382D?style=for-the-badge&logo=postman&logoColor=white" alt="Test"/>
     </td>
   </tr>
   <tr>
-    <td width="25%" align="center">
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/4.%20Test-Unit%20%7C%20Postman-DC382D?style=for-the-badge&logo=postman&logoColor=white" alt="Test"/>
+    </td>
+    <td width="33.3%" align="center">
       <img src="https://img.shields.io/badge/5.%20Review-Git%20%7C%20PR-7A00FF?style=for-the-badge&logo=git&logoColor=white" alt="Review"/>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/6.%20Runtime-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/7.%20CI%2FCD-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/8.%20Monitor-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/6.%20Deploy-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Deploy"/>
     </td>
   </tr>
 </table>
 
 <br/><br/>
 
-<img src="./assets/backend-animation.svg" width="95%" alt="High-Concurrency Backend Architecture Animation" />
+<img src="./assets/developer.gif" width="460" alt="Developer Vibe Animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=00C9FF&center=true&vCenter=true&width=750&height=32&lines=1.+Design+Clean+Contracts+%26+Protocols;2.+Implement+Go+%2F+Java+Core+Logic;3.+Optimize+DB+Indexes+%26+Redis+Caching;4.+Automate+Unit+%26+Integration+Testing;5.+Containerize+with+Docker+%26+Monitor" alt="Workflow Pipeline Typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=00C9FF&center=true&vCenter=true&width=650&height=30&lines=Eat+%E2%80%A2+Sleep+%E2%80%A2+Code+%E2%80%A2+Repeat;Turning+coffee+into+scalable+backend+systems;Always+curious+%E2%80%A2+Always+building+%E2%80%A2+Always+shipping" alt="Developer Vibe Typing" />
 
 </div>
 
