@@ -69,7 +69,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 > 💡 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin (Uncle Bob)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## 🛠️ Languages & Technologies
 
@@ -122,6 +122,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/></a>
   <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" width="55" height="55" alt="Prometheus"/></a>
   <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" width="55" height="55" alt="Grafana"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/></a>
   <a href="https://github.com/PikayHuynh"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/></a>
   <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" alt="GitLab"/></a>
@@ -129,7 +130,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   <a href="https://www.usebruno.com/"><img src="./assets/bruno.svg" width="55" height="55" alt="Bruno"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## ⚙️ Development Workflow
 
@@ -156,7 +157,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## 📚 Currently Learning
 
@@ -176,50 +177,62 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=600&height=35&lines=Consistent+daily+coding+%26+problem+solving;Continuous+integration+%26+clean+commits" alt="Stats Dynamic" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=40&section=header&text=⚡%20Live%20Stats%20Dashboard&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Stats Header" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=600&height=35&lines=Consistent+daily+coding+%26+problem+solving;Continuous+integration+%26+clean+commits;Building+in+public+%E2%80%A2+shipping+every+day" alt="Stats Dynamic" />
 
 <br/>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/PikayHuynh">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=PikayHuynh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ABB2BF&icon_color=7A00FF&ring_color=FF007A&rank_icon=github&count_private=true&border_radius=10"
+          width="100%"
+          alt="PikayHuynh's GitHub Stats"
+        />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/PikayHuynh">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=PikayHuynh&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ABB2BF&border_radius=10&langs_count=8"
+          width="100%"
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <a href="https://github.com/PikayHuynh">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=PikayHuynh&show_icons=true&hide_border=true&theme=onedark&rank_icon=github&count_private=true"
-    width="48%"
-    alt="PikayHuynh's GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=PikayHuynh&layout=compact&hide_border=true&theme=onedark"
-    width="48%"
-    alt="Top Languages"
-  />
-</a>
-
-<br/>
-
-<a href="https://github.com/PikayHuynh">
-  <img
-    src="https://streak-stats.demolab.com/?user=PikayHuynh&theme=onedark&hide_border=true&ring=61AFEF&fire=FF4500&currStreakNum=61AFEF"
-    width="70%"
+    src="https://streak-stats.demolab.com/?user=PikayHuynh&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=FF007A&currStreakNum=00C9FF&sideNums=E5C07B&currStreakLabel=7A00FF&sideLabels=61AFEF&dates=ABB2BF&border_radius=10"
+    width="65%"
     alt="GitHub Streak Stats"
   />
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7A00FF,100:FF007A&height=40&section=header&text=📈%20Contribution%20Heatmap&fontSize=22&fontColor=7A00FF&animation=fadeIn" alt="Activity Header" />
+
 <a href="https://github.com/PikayHuynh">
   <img
-    src="https://activity-graph.vercel.app/graph?username=PikayHuynh&bg_color=282c34&color=61afef&line=61afef&point=98c379&area=true&hide_border=true"
+    src="https://activity-graph.vercel.app/graph?username=PikayHuynh&bg_color=0D1117&color=00C9FF&line=7A00FF&point=FF007A&area=true&area_color=00C9FF&hide_border=true&custom_title=PikayHuynh's%20Contribution%20Activity&title_color=00C9FF"
     width="100%"
     alt="PikayHuynh's Contribution Activity Graph"
   />
@@ -227,13 +240,15 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=61AFEF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code" alt="Snake Subtitle" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=🐍%20Snake%20Eating%20My%20Contributions&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Snake Header" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=7A00FF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code;Watch+it+devour+my+contribution+graph+🐍" alt="Snake Subtitle" />
 
 <br/>
 
@@ -255,7 +270,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 ## 🌐 Connect With Me
 
@@ -291,7 +306,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:7A00FF,100:FF007A&height=2&section=header" width="100%" alt="section divider"/>
 
 <div align="center">
 
