@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Status-Building%20%26%20Scaling-E5C07B?style=for-the-badge&logo=git&logoColor=white" alt="Status" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Location-Can%20Tho%2C%20Vietnam-E06C75?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
 <a href="https://gin-gonic.com/"><img src="https://img.shields.io/badge/Gin%20Framework-008ECF?style=for-the-badge&logo=gin&logoColor=white" alt="Gin Framework" /></a>
@@ -29,7 +29,7 @@
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 
-<br/><br/>
+<br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=PikayHuynh&label=Profile%20Views&color=7A00FF&style=for-the-badge"
@@ -141,7 +141,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   alt="Development workflow"
 />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/1.%20Spec-OpenAPI%20%7C%20Swagger-61DAFB?style=for-the-badge" alt="Spec"/>
 <img src="https://img.shields.io/badge/2.%20Code-Go%20%7C%20Java-00ADD8?style=for-the-badge" alt="Code"/>
@@ -164,7 +164,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=800&color=E5C07B&center=true&vCenter=true&width=650&height=35&lines=Leveling+up+in+Distributed+Systems;Deep+diving+into+PostgreSQL+Internals;Mastering+Go+Concurrency+Primitives;Benchmarking+Kafka+High-Throughput+Pipelines" alt="Currently Learning Dynamic" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/GO%20CONCURRENCY-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Concurrency"/>
 <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-7A00FF?style=for-the-badge" alt="System Design"/>
@@ -184,7 +184,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=600&height=35&lines=Consistent+daily+coding+%26+problem+solving;Continuous+integration+%26+clean+commits" alt="Stats Dynamic" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/PikayHuynh">
   <img
@@ -199,7 +199,7 @@ My engineering foundation revolves around mission-critical backend principles: *
   />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/PikayHuynh">
   <img
@@ -235,7 +235,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=61AFEF&center=true&vCenter=true&width=550&height=30&lines=Continuous+commits+feeding+the+open-source+snake...;Driven+by+passion+and+clean+code" alt="Snake Subtitle" />
 
-<br/><br/>
+<br/>
 
 <picture>
   <source
@@ -263,7 +263,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=600&height=35&lines=Open+for+tech+talks+%26+backend+collaborations;Drop+me+a+message+on+LinkedIn+or+Email!" alt="Connect Dynamic" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/PikayHuynh" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-PikayHuynh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
