@@ -169,35 +169,32 @@ My engineering foundation revolves around mission-critical backend principles: *
   </tr>
 </table>
 
-<br/><br/>
-
-<img src="./assets/developer.gif" width="460" alt="Developer Vibe Animation" />
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=00C9FF&center=true&vCenter=true&width=650&height=30&lines=Eat+%E2%80%A2+Sleep+%E2%80%A2+Code+%E2%80%A2+Repeat;Turning+coffee+into+scalable+backend+systems;Always+curious+%E2%80%A2+Always+building+%E2%80%A2+Always+shipping" alt="Developer Vibe Typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=00C9FF&center=true&vCenter=true&width=750&height=30&lines=Spec-Driven+Development+%E2%80%A2+Clean+Architecture;Automated+Testing+%E2%80%A2+Containerized+Deployments;Building+Fault-Tolerant+and+Scalable+Backend+Services" alt="Workflow Typing" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
-## ⚡ Beyond The Code
+## 🎯 Core Competencies & Specializations
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:FF007A&height=40&section=header&text=⚡%20Beyond%20The%20Code&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Beyond The Code" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=40&section=header&text=🎯%20Core%20Competencies%20%26%20Specializations&fontSize=22&fontColor=00C9FF&animation=fadeIn" alt="Core Competencies" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=650&height=30&lines=Turning+Vietnamese+coffee+into+clean+APIs;Can+Tho,+Vietnam+%E2%80%A2+Always+building+%26+learning;Simplicity+and+reliability+over+cleverness" alt="Personal Bio Typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=800&color=98C379&center=true&vCenter=true&width=750&height=30&lines=Backend+Architecture+%E2%80%A2+High-Concurrency+APIs;Database+Optimization+%E2%80%A2+Cache-Aside+Strategies;Clean+Architecture+%E2%80%A2+Domain-Driven+Design" alt="Competencies Typing" />
 
 </div>
 
 <br/>
 
-* 📍 **Base:** Coding & building from **Can Tho, Vietnam** 🇻🇳 (UTC+7).
-* ☕ **Daily Fuel:** Vietnamese iced milk coffee (`cà phê sữa đá`) + terminal dark mode.
-* 🦫 **Engineering Mindset:** Simplicity over complexity, reliability over cleverness. *Code is read far more often than it is written.*
-* 🎯 **Daily Focus:** Writing code today that future me (and fellow teammates) will enjoy maintaining.
-* 💬 **Ask Me About:** Go concurrency, RESTful API structure, PostgreSQL optimization, or tech discussions over coffee.
+* 🏗️ **Backend Architecture:** Designing RESTful microservices & modular systems using **Go (Gin)** and **Java (Spring Boot)**, following Clean Architecture and SOLID principles.
+* ⚡ **Concurrency & Performance:** Practical implementation of Goroutines, Worker Pools, channel-based pipelines, and non-blocking I/O patterns.
+* 🗄️ **Database Engineering & Caching:** Schema design, B-tree indexing, query optimization in **PostgreSQL**, alongside multi-level caching strategies with **Redis**.
+* 📨 **Event-Driven Messaging:** Asynchronous task processing and decoupling distributed systems using **Kafka** and **RabbitMQ**.
+* 🧪 **Testing & Code Quality:** Test-Driven mindset with comprehensive Unit Tests, Integration Tests, and automated regression testing.
+* 🐳 **Containerization & Deployment:** Multi-stage **Docker** builds, container orchestration with Compose, structured logging, and observability.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
@@ -354,11 +351,9 @@ My engineering foundation revolves around mission-critical backend principles: *
   </a>
 </p>
 
-<a href="https://github.com/PikayHuynh">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
-</a>
-
-<br/><br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&width=850&height=40&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%94+Linus+Torvalds;%E2%80%9CBad+programmers+worry+about+the+code.+Good+programmers+worry+about+data+structures.%E2%80%9D+%E2%80%94+Linus+Torvalds" alt="Linus Torvalds Quote" />
+</div>
 
 <p align="center">
   <sub>Designed & Developed with ❤️ by <b>Huỳnh Minh Phương (PikayHuynh)</b></sub>
