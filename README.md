@@ -72,7 +72,7 @@ My engineering foundation revolves around mission-critical backend principles: *
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7A00FF,100:FF007A&height=24&section=header&animation=twinkling" width="100%" alt="section divider"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=Languages%20%26%20Technologies&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="Languages and Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=Languages%20and%20Technologies&fontSize=28&fontColor=61AFEF&animation=fadeIn" alt="Languages and Technologies" />
 </div>
 
 <div align="center">
@@ -203,7 +203,32 @@ that balance **scalability, reliability, security, maintainability, and cost**.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=GitHub%20Stats%20%26%20Metrics&fontSize=28&fontColor=00C9FF&animation=twinkling" alt="GitHub Stats and Metrics" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=38&section=header&text=Architecture%20Mindset&fontSize=22&fontColor=98C379&animation=fadeIn" alt="Architecture Mindset" />
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/DESIGN-System%20Thinking-00C9FF?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Thinking" />
+      <br/><sub>Understand the problem before designing the system.</sub>
+    </td>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/DECIDE-Trade--offs-7A00FF?style=for-the-badge&logo=git&logoColor=white" alt="Architectural Trade-offs" />
+      <br/><sub>Make technical decisions with context and clarity.</sub>
+    </td>
+    <td width="33.3%" align="center">
+      <img src="https://img.shields.io/badge/DELIVER-Reliable%20Systems-98C379?style=for-the-badge&logo=docker&logoColor=111827" alt="Reliable Systems" />
+      <br/><sub>Turn designs into maintainable software that lasts.</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=900&color=E5C07B&center=true&vCenter=true&width=720&height=30&lines=Clarity+%E2%80%A2+Trade--offs+%E2%80%A2+Reliability;Architecture+is+a+continuous+learning+process" alt="Architecture Mindset Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00C9FF,100:7A00FF&height=45&section=header&text=GitHub%20Stats%20and%20Metrics&fontSize=28&fontColor=00C9FF&animation=twinkling" alt="GitHub Stats and Metrics" />
 </div>
 
 <div align="center">
